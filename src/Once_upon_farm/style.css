@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* background-color: #b25ea3; */
+}
+
+body {
+    background-image: linear-gradient(to right, #9363a9, #cb5a9e);
+}
+
+.nav-bar ul {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    float: right;
+    padding: 50px;
+    padding-top: 40px;
+    font-size: 30px;
+    background-image: linear-gradient(none);
+    color: #ffffff;
+}
+
+li {
+    list-style: none;
+}
+
+.live {
+    width: 64.77px;
+    height: 49.87px;
+    margin-top: 90px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+
+#Ellipse-six-png {
+    position: absolute;
+    padding-left: 80px;
+}
+
+.header {
+    padding-left: 40px;
+    padding-top: px;
+    font-size: 64px;
+    font-family: Italiana;
+    font-weight: 400;
+    display: flex;
+    text-transform: capitalize;
+    color: #ffffff;
+}
+
+.fram {
+    padding-left: 18px;
+    color: #014600;
+}
+
+#login {
+    height: 40px;
+    width: 150px;
+    font-size: 30px;
+    border-radius: 50px;
+    background-image: linear-gradient(white);
+    text-transform: capitalize;
+    border: #ffffff;
+}
+
+#l {
+    color: black;
+}
+
+.main {
+    display: flex;
+}
+
+.description {
+    width: 35%;
+    font-family: inherit;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 45.41px;
+    text-align: left;
+    text-underline-position: from-font;
+    padding-top: 200px;
+    padding-left: 40px;
+    color: #ffffff;
+}
+
+#Ellipse-eight-png {
+    position: absolute;
+    margin-left: 0px;
+}
+
+.Brand-img {
+    width: 100px;
+    height: 620px;
+    top: 177px;
+    padding-left: 0;
+    background-size: cover;
+    background-image: linear-gradient(none);
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.buy-now {
+    width: 205px;
+    height: 55px;
+    border-radius: 50px;
+    border-color: #ffffff;
+    margin-top: 0px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+
+#Ellipse-four-png {
+    position: absolute;
+    margin-left: 250px;
+}
